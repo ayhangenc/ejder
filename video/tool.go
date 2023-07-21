@@ -1,4 +1,4 @@
-package ejder
+package video
 
 import (
 	"log"
