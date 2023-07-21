@@ -1,10 +1,9 @@
-package main
+package ejder
 
 import (
 	"log"
 )
 
-func main() {
+func Tool() {
 	log.Println("running main")
-	Tool()
 }
