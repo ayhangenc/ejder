@@ -7,3 +7,7 @@ import (
 func Tool() {
 	log.Println("running video Tool")
 }
+
+func Bool() {
+	log.Println("running video Bool")
+}
