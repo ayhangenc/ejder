@@ -8,4 +8,5 @@ import (
 func main() {
 	db.DBQuery()
 	video.Tool()
+	video.Bool()
 }
