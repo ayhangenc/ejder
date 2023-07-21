@@ -5,5 +5,5 @@ import (
 )
 
 func Tool() {
-	log.Println("running main")
+	log.Println("running video Tool")
 }
